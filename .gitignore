@@ -1,0 +1,23 @@
+.DS_Store
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Keep secrets and local credentials out of travel notes sync.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.mobileprovision
+*password*
+*Password*
+*PASSWORD*
+*secret*
+*Secret*
+*SECRET*
+*密碼*
+*金鑰*
